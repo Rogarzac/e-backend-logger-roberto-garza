@@ -1,1 +1,2 @@
+#  Prueba de API
 Para hacer funcionar la API, primero se tiene que hacer un POST de una aplicación a la ruta ("/api/application"). Posteriormente, realizar un GET para obtener las aplicaciones, ahí encontrarás el token necesario para poder utilizar las solicitudes(GET, POST, PUT, DELETE) necesarias para los logs en sus respectivas rutas  ("/api/logs"). 
